@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(42, 151, 165) ();
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(238, 68, 39);
+}
+
+h2{
+    text-align: center;
+    background-color: black;
+}
+
+h3{
+    text-align: left;
+    background-color: blue;
+}
+
+img{
+    width: 150px;
+    height: 159px;
+    background-position: center;
+    display: block;
+    margin: 0 auto;
+}
